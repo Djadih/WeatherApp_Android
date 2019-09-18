@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HW1-WeatherMap</string>
+    <string name="google_maps_key">AIzaSyAjyM0A4BiPtqT_n5_v48uHEd7rltaIp8U</string>
+    <string name="title_activity_maps">HW1-WeatherMap</string>
+
+</resources>
